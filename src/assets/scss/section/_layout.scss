@@ -6,20 +6,27 @@
     height: 100%;
     //overflow-y: auto; 스크롤 생기게 하려면
     z-index: 10000;
-    background-color: #000;
+    border-right: 1px solid var(--white200);
+   
 }
 
 #main {
     max-width: 2000px;
     min-height: 100vh;
     margin: 0 auto;
-    padding: 260px;
-    background-color: #111;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-left: 270px;
+    
 }
 
 #footer {
     text-align: center;
-    background-color: #333;
-    padding: 20px 20px 20px 260px;//방향은 시계방향 위쪽 오른쪽 순 
-    
+    background-color: var(--black100);
+    padding: 23px;//방향은 시계방향 위쪽 오른쪽 순 
+    margin-left: 260px;
+    width: calc(100% - 260px);
+    color: var(--white100);
+    font-size: 0.8rem;
+    border-top: 1px solid var(--white100);
 }
