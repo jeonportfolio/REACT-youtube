@@ -14,9 +14,8 @@
     max-width: 2000px;
     min-height: 100vh;
     margin: 0 auto;
-    padding: 30px;
-    box-sizing: border-box;
-    margin-left: 270px;
+    padding: 20px;
+    margin-left: 260px;
     
 }
 
@@ -29,4 +28,24 @@
     color: var(--white100);
     font-size: 0.8rem;
     border-top: 1px solid var(--white100);
+}
+
+@media (max-width: 800px) {
+    #header {
+        left:-260px;
+
+        h1 {
+            position: fixed;
+            left: 0;
+            top: 0;
+        }
+
+    }
+    #main {
+        margin-left:0;
+    }
+    #footer {
+        width: 100%;
+        margin-left: 0;
+    }
 }

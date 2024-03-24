@@ -26,3 +26,24 @@
       
     }
 }
+@media(max-width: 800px) {
+    .search__inner {
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        z-index: 1000;
+        background-color: var(--blackAlpha400);
+        backdrop-filter: blur(10);
+        padding: 40px 20px 40px 200px;
+     
+
+        label {
+            left: 213px;
+            top: 48px;
+        }
+        input {
+          padding: 12px 14px 12px 45px; 
+        }
+    }
+}
