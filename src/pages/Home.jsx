@@ -9,6 +9,8 @@ import { websiteText } from '../data/website'
 import { gsapText } from '../data/gsap'
 import { portfolioText } from '../data/portfolio'
 import { youtubeText } from '../data/youtube'
+import { developerText } from '../data/developer'
+import { todayText } from '../data/today'
 
 
 
@@ -20,8 +22,8 @@ const Home = () => {
             title = "JEON's 유튜브"
             description="나만의 유튜브 보기 REACT 사이트">
             
-            <Today />
-            <Developer />
+            <Today videos={todayText} id="today" />
+            <Developer videos={developerText} title="😪 추천 개발자를 소개합니다." id="developer" />
             <VideoSlider videos={webdText} title="😮 웹디자인기능사 실기 영상" id="webd" />
             <VideoSlider videos={websiteText} title="😛 웹사이트" id="website" />
             <VideoSlider videos={gsapText} title="🤓 GSAP 패럴랙스 효과를 하고 싶다면!" id="gsap" />
