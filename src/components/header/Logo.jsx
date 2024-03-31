@@ -1,14 +1,15 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
-const Logo = () => {
-  return (
-    <h1 className='header__logo'>
-                <a href="/">
-                    <em></em>  
-                    <span>JEON's<br />youtube</span>
-                </a>
-     </h1>
-  )
+const Logo = ({ toggleMenu }) => {
+    return (
+        <h1 className='header__logo'>
+            <Link to='/'>
+                <em aria-hidden='true' onClick={toggleMenu}></em>
+                <span>webs<br />youtube</span>
+            </Link>
+        </h1>
+    )
 }
 
 export default Logo

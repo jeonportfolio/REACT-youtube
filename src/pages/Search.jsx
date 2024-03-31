@@ -18,7 +18,8 @@ const Search = () => {
     }, [searchId]);
 
     const fetchVideos = (query, pageToken = '') => {
-        fetchFromAPI(`search?part=snippet&q=${query}&pageToken=${pageToken}`) //query에는 searchId의 값이 들어간다. 
+        fetchFromAPI(`search?part=snippet&type=video&q=${query}&pageToken=${pageToken}`) //query에는 searchId의 값이 들어간다.
+                //스니펫 뒤에 type=video만 써주면 video만 나오게 됨  
             .then((data) => {
                 setNextPageToken(data.nextPageToken);//콘솔창에 보면 nextpageToken이 있는데 이 토큰값을 입력하면 다음 데이터 볼 수 있다.
                 setVideos((preVideos) => [...preVideos, ...data.items]);
