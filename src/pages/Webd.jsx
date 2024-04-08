@@ -24,7 +24,7 @@ const Webd = () => {
             description="웹디자인 기능사 튜토리얼 강의입니다.">
             
                 <section id='webPage' className={webdClass}>
-                    <h2>웹디자인기능사 실기</h2>
+                    <h2>웹디자인기능사 필기 포토샵 실기 영상</h2>
                     <div className="video__inner">
                         <VideoCard videos={webdText} />
                     </div>

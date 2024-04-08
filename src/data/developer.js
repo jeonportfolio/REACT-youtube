@@ -12,10 +12,10 @@ export const developerText = [
         channelId: "UCQNE2JmbasNYbjGAcuBiRRg"
     },
     {
-        img: "https://yt3.googleusercontent.com/ytc/AOPolaSNRWU5nI-gDyzEdtbhpLqWg8wXNs-FQHf35iMCOw=s176-c-k-c0x00ffffff-no-rj",
-        name: "생활코딩",
-        channelAddress: "https://www.youtube.com/@coohde",
-        channelId: "UCvc8kv-i5fvFTJBFAk6n1SA"
+        img: "https://yt3.googleusercontent.com/FY4rvZ-eYoZZyww72j7PXyaA6Jd-BQS2MnSIfuaxTsSj9SdPGBwxYCueV1-Wp9RY6aR7niSDXqI=s176-c-k-c0x00ffffff-no-rj",
+        name: "미대교수",
+        channelAddress: "https://www.youtube.com/@AI_art_design",
+        channelId: "UCbtdXNTF-Dw0k5btG7MHOcg"
     },
     {
         img: "https://yt3.googleusercontent.com/ytc/AOPolaSn88PvVXWN_Wy5vSr-5Eo_NGDdw_apL6bM7QKfCw=s176-c-k-c0x00ffffff-no-rj",

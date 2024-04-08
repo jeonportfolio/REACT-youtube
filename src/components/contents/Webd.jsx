@@ -5,7 +5,7 @@ import { webdText } from '../../data/webd'
 const Webd = () => {
   return (
       <section id='webd' >
-          <h2>😮웹디자인기능사 실기 영상편</h2>
+          <h2>😮웹디자인기능사 영상모음</h2>
               <div className="video__inner">
                   {webdText.map((video, key) => (
                         <div className="video" key={key}>

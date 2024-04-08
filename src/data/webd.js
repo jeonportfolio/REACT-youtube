@@ -1,4 +1,4 @@
-import webd01 from "../assets/img/webd/webd01.jpg";
+import webd01 from "../assets/img/webd/webd01.png";
 import webd02 from "../assets/img/webd/webd02.jpg";
 import webd03 from "../assets/img/webd/webd03.jpg";
 import webd04 from "../assets/img/webd/webd04.jpg";
@@ -40,12 +40,12 @@ import webd39 from "../assets/img/webd/webd39.jpg";
 
 export const webdText = [
     {
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(A-1) | 웹스토리보이 | 2023 웹디기",
+        title: "웹디자인기능사 필기 강의",
         img: webd01,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        author: "미대교수",
+        videoId: "iw568SjeUbY",
+        date: "2022. 7. 27",
+        channelId: "UCbtdXNTF-Dw0k5btG7MHOcg",
     },{
         title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(A-2) | 웹스토리보이 | 웹디자인기능사",
         img: webd02,
