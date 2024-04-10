@@ -23,11 +23,11 @@ const Home = () => {
             description="나만의 유튜브 보기 REACT 사이트">
             
             <Today videos={todayText} id="today" />
-            <Developer videos={developerText} title="😪 추천 개발자를 소개합니다." id="developer" />
-            <VideoSlider videos={webdText} title="😮 웹디자인기능사 실기 영상" id="webd" />
-            <VideoSlider videos={websiteText} title="😛 웹사이트" id="website" />
-            <VideoSlider videos={gsapText} title="🤓 GSAP 패럴랙스 효과를 하고 싶다면!" id="gsap" />
-            <VideoSlider videos={portfolioText} title="🤗 포트폴리오 만드는 방법을 공유합니다." id="portfolio" />
+            <Developer videos={developerText} title="😪 추천 강의를 소개합니다." id="developer" />
+            <VideoSlider videos={webdText} title="😮 웹디자인기능사 필기 포토샵 실기 영상" id="webd" />
+            <VideoSlider videos={websiteText} title="😛 컴퓨터활용능력 2급 실기 영상" id="website" />
+            <VideoSlider videos={gsapText} title="🤓 SQLD 자격증 독학 영상" id="gsap" />
+            <VideoSlider videos={portfolioText} title="🤗 동기부여 영상" id="portfolio" />
             <VideoSlider videos={youtubeText} title="😱 " id="youtube" />
 
 

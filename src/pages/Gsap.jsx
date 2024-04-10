@@ -18,11 +18,11 @@ const Gsap = () => {
 
     return (
         <Main 
-            title = "GSAP 사이트"
-            description="GSAP 사이트 튜토리얼 강의입니다.">
+            title = "SQLD 사이트"
+            description="SQLD 사이트 튜토리얼 강의입니다.">
             
             <section id='webPage' className={gsapPageClass}>
-                    <h2>🤓 GSAP 패럴랙스</h2>
+                    <h2>🤓 SQLD</h2>
                     <div className="video__inner">
                         <VideoCard videos={gsapText} />
                     </div>

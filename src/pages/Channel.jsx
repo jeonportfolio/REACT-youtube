@@ -44,6 +44,7 @@ const Channel = () => {
           setChannelVideo(prevVideos => [...prevVideos, ...videosData.items]);
           setNextPageToken(videosData?.nextPageToken);
       }
+      //nextToken은 다음 페이지까지 계속적으로 넘길 수 있게 해준다.
     }
     const channelPageClass = loading ? 'isLoading' : 'isLoaded';
 

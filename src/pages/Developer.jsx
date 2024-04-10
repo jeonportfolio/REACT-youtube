@@ -23,7 +23,7 @@ const Developer = () => {
             description="오늘의 추천 개발자 유튜버입니다.">
             
             <section id='developerPage' className={developerPageClass}>
-                    <h2>😪추천 채널을 소개합니다!</h2>
+                    <h2>😪추천 강의를 소개합니다!</h2>
                          <div className='developer__inner '> 
                                                 {/* 페이지 부분에서는 overflow hidden 지워줘야 개발자 목록 다나온다. */}
                                {developerText.map((developer, key) => (

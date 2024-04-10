@@ -1,15 +1,15 @@
 export const developerText = [
     {
-        img: "https://yt3.googleusercontent.com/JU6k565OVstxx_h_7TbzE1aNXKzcxKl33zjPV4p649pqsgS7E3vb0meX9DB1_D_KviDoc4xM=s176-c-k-c0x00ffffff-no-rj",
+        img: "https://yt3.googleusercontent.com/O1pEhceIrP09eG4mcoH-VdwTzrvpSJr3uJacENwzSjmkZx53H0qB_6rpJQaun518sqVQ1kSu_A=s176-c-k-c0x00ffffff-no-rj",
         name: "webstoryboy",
         channelAddress: "https://www.youtube.com/@webstoryboy",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw"
     },
     {
-        img: "https://yt3.googleusercontent.com/JuRcVt9OFQgqh7UL1LjihpVLEbjdNXt3tGq-IQfqRMT8wVXgWg_tzyz0S_GVsgqkB3ucBC5fqeY=s176-c-k-c0x00ffffff-no-rj",
-        name: "조코딩 JoCoding",
-        channelAddress: "https://www.youtube.com/@jocoding",
-        channelId: "UCQNE2JmbasNYbjGAcuBiRRg"
+        img: "https://yt3.googleusercontent.com/6y8fLTzd_pKfx_dI7BIQbrIvLKHhBrtuS82cBcr2EEwxR8Df--nHZXooFdEAYjwZmuW1B8Fy=s176-c-k-c0x00ffffff-no-rj",
+        name: "구구구굿디자인",
+        channelAddress: "https://www.youtube.com/@googoogoogood",
+        channelId: "UCxl2Vvpyqk6C5rlFV-V6uCQ"
     },
     {
         img: "https://yt3.googleusercontent.com/FY4rvZ-eYoZZyww72j7PXyaA6Jd-BQS2MnSIfuaxTsSj9SdPGBwxYCueV1-Wp9RY6aR7niSDXqI=s176-c-k-c0x00ffffff-no-rj",
@@ -18,16 +18,16 @@ export const developerText = [
         channelId: "UCbtdXNTF-Dw0k5btG7MHOcg"
     },
     {
-        img: "https://yt3.googleusercontent.com/ytc/AOPolaSn88PvVXWN_Wy5vSr-5Eo_NGDdw_apL6bM7QKfCw=s176-c-k-c0x00ffffff-no-rj",
-        name: "노마드 코더 Nomad Coders",
-        channelAddress: "https://www.youtube.com/@nomadcoders",
-        channelId: "UCUpJs89fSBXNolQGOYKn0YQ"
+        img: "https://yt3.googleusercontent.com/4QZ0F9wX5WW2j8MMzlzg2MDZ8NwI8phP34nX5i5vs-0eMwHUFdOmeRNE5nTofiRIb-mhLbf3iw=s176-c-k-c0x00ffffff-no-rj",
+        name: "박쌤컴퓨터",
+        channelAddress: "https://www.youtube.com/@parkjh",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg"
     },
     {
-        img: "https://yt3.googleusercontent.com/ytc/AOPolaSeGpiSPyozdunhf74J4oa2XWHPObm8bKTcbEU=s176-c-k-c0x00ffffff-no-rj",
-        name: "코딩하는거니",
-        channelAddress: "https://www.youtube.com/@gunnycoding",
-        channelId: "UCO7g158NWgLyn98z8v3zduA"
+        img: "https://yt3.googleusercontent.com/kSJCInqVP9v3EQgLZRJgCPp3HDUTKmV4HnQy_Ubu4d3V1GI24DFrzoCrUGHvyRvQcu1nfJfq=s176-c-k-c0x00ffffff-no-rj",
+        name: "이기적 영진닷컴",
+        channelAddress: "https://www.youtube.com/@ydot0789",
+        channelId: "UCIimf8pEC9AP0N_9FGW_P_w"
     },
     {
         img: "https://yt3.googleusercontent.com/iofg4f6THo3jyeap1GC23g5qsKD-w62Lu4U9EJBmZe8YtM1NhbNWz4WiyICAXXmwrgbnUh-FNQ=s176-c-k-c0x00ffffff-no-rj",

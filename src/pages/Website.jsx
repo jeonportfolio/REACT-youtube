@@ -21,11 +21,11 @@ const Website = () => {
 
     return (
         <Main 
-            title = "웹표준 사이트"
-            description="웹표준 사이트 튜토리얼 강의입니다.">
+            title = "컴퓨터활용능력 2급"
+            description="컴퓨터활용능력 2급 강의입니다.">
             
             <section id='websitePage' className={websitePageClass}>
-                <h2>😛 웹사이트</h2>
+                <h2>😛 컴퓨터활용능력 2급</h2>
                 <div className='video__inner'>
                     <VideoCard videos={websiteText} />
                 </div>

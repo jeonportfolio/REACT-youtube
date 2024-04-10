@@ -9,12 +9,12 @@ import { CiMoneyBill } from "react-icons/ci";
 
 import { AiFillGithub } from "react-icons/ai";
 import { AiOutlineCodepen } from "react-icons/ai";
-import { AiFillYoutube } from "react-icons/ai";
+import { SiNaver } from "react-icons/si";
 import { AiOutlineInstagram } from "react-icons/ai";
 
 export const headerMenus = [
     {
-        title: "웹스토리보이",
+        title: "홈",
         icon: <CiBaseball />,
         src: "/"
     },
@@ -24,7 +24,7 @@ export const headerMenus = [
         src: "/today"
     },
     {
-        title: "추천 개발자",
+        title: "추천 관련 강의 채널",
         icon: <CiCoins1 />,
         src: "/developer"
     },
@@ -34,22 +34,22 @@ export const headerMenus = [
         src: "/webd"
     },
     {
-        title: "웹표준 사이트",
+        title: "컴퓨터활용능력2급",
         icon: <CiBullhorn />,
         src: "/website"
     },
     {
-        title: "GSAP Parallax",
+        title: "SQLD",
         icon: <CiCoffeeCup />,
         src: "/gsap"
     },
     {
-        title: "포트폴리오 사이트",
+        title: "동기부여",
         icon: <CiDumbbell />,
         src: "/port"
     },
     {
-        title: "유튜브 클론 사이트",
+        title: "음악",
         icon: <CiFries />,
         src: "/youtube"
     },
@@ -57,12 +57,12 @@ export const headerMenus = [
 
 export const searchKeyword = [
     {
-        title: "webstoryboy",
-        src: "/search/webstoryboy"
+        title: "SQLD",
+        src: "/search/sqld"
     },
     {
-        title: "HTML",
-        src: "/search/html"
+        title: "컴퓨터활용능력",
+        src: "/search/컴퓨터활용능력"
     },
     {
         title: "CSS",
@@ -105,13 +105,13 @@ export const searchKeyword = [
 export const snsLink = [
     {
         title: "github",
-        url: "https://www.naver.com/",
+        url: "https://github.com/jeonportfolio/REACT-youtube",
         icon: <AiFillGithub />
     },
     {
         title: "youtube",
-        url: "/",
-        icon: <AiFillYoutube />
+        url: "https://blog.naver.com/turtleweb",
+        icon: <SiNaver/> 
     },
     {
         title: "codepen",
