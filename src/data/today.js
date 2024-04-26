@@ -9,7 +9,7 @@ import todayView08 from "../assets/img/today/todayView08.jpg";
 
 export const todayText = [
     {
-        img: "https://i.ytimg.com/an_webp/iw568SjeUbY/mqdefault_6s.webp?du=3000&sqp=COKU2rAG&rs=AOn4CLAhdfA3M68vyVDMfY7enjXVXooKlA",
+        img: "",
         title: "웹디자인 기능사 필기 강의",
         desc : "간단 핵심만 정리한 무료 웹디자인기능사 필기 강의입니다.",
         author : "미대교수",
