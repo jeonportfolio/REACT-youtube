@@ -65,12 +65,12 @@ export const searchKeyword = [
         src: "/search/컴퓨터활용능력"
     },
     {
-        title: "CSS",
-        src: "/search/css"
+        title: "웹디자인기능사",
+        src: "/search/웹디자인기능사"
     },
     {
-        title: "JavaScript",
-        src: "/search/javascript"
+        title: "API",
+        src: "/search/API"
     },
     {
         title: "React.js",
@@ -93,12 +93,12 @@ export const searchKeyword = [
         src: "/search/sql"
     },
     {
-        title: "portfolio",
-        src: "/search/React Portfolio"
+        title: "ASMR",
+        src: "/search/asmr"
     },
     {
-        title: "music",
-        src: "/search/NewJeans"
+        title: "동기부여",
+        src: "/search/동기부여"
     }
 ];
 
