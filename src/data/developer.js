@@ -30,10 +30,10 @@ export const developerText = [
         channelId: "UCIimf8pEC9AP0N_9FGW_P_w"
     },
     {
-        img: "https://yt3.googleusercontent.com/iofg4f6THo3jyeap1GC23g5qsKD-w62Lu4U9EJBmZe8YtM1NhbNWz4WiyICAXXmwrgbnUh-FNQ=s176-c-k-c0x00ffffff-no-rj",
-        name: "워니코딩",
-        channelAddress: "https://www.youtube.com/@WonieSong",
-        channelId: "UC0uDM1xZMNBAoW2xnzhAQ7g"
+        img: "https://yt3.googleusercontent.com/ytc/AIdro_mLb_N4nXabTobjb7AfRKXVCVpk_9dYvAu1KM9irmeI6w=s176-c-k-c0x00ffffff-no-rj-mo",
+        name: "소스놀이터",
+        channelAddress: "https://www.youtube.com/@sourcePlayground",
+        channelId: "UC2nkWbaJt1KQDi2r2XclzTQ"
     },
     {
         img: "https://yt3.googleusercontent.com/ytc/AOPolaRCkXnBnWEMfpo5c_TXB-tF0FxqiCfv5KoP_9IBC6A=s176-c-k-c0x00ffffff-no-rj",

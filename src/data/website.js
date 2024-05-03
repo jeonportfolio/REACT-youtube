@@ -1,11 +1,4 @@
-import website01 from "../assets/img/site/site01.jpg";
-import website02 from "../assets/img/site/site02.jpg";
-import website03 from "../assets/img/site/site03.jpg";
-import website04 from "../assets/img/site/site04.jpg";
-import website05 from "../assets/img/site/site05.jpg";
-import website06 from "../assets/img/site/site06.jpg";
-import website07 from "../assets/img/site/site07.jpg";
-import website08 from "../assets/img/site/site08.jpg";
+
 import website09 from "../assets/img/site/site09.jpg";
 import website10 from "../assets/img/site/site10.jpg";
 import website11 from "../assets/img/site/site11.jpg";
@@ -23,61 +16,61 @@ import website22 from "../assets/img/site/site22.jpg";
 
 export const websiteText = [
     {
-        title: "01. 웹표준 사이트 만들기 : 디자인 : 헤더 유형01 / 피그마(Figma)로 작업하기 / 웹스토리보이",
-        img: website01,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[24년 컴활2급실기 대비] 상시기출11회_기본작업",
+        img: "https://i.ytimg.com/vi/G3DpvBUK014/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAckX-YioQGAdRQibDLTrihoSyErw",
+        author: "박쌤컴퓨터",
+        videoId: "G3DpvBUK014",
+        date: "2023.12.23",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "02. 웹표준 사이트 만들기 : 디자인 : 슬라이드 유형01 / 피그마(Figma)로 작업하기 / 웹스토리보이",
-        img: website02,
-        author: "webstoryboy",
-        videoId: "Qs4viazDmdU",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[24년 컴활2급실기 대비] 상시기출11회_기본작업",
+        img: "https://i.ytimg.com/an_webp/CRDPi_3g_vA/mqdefault_6s.webp?du=3000&sqp=CKCd07EG&rs=AOn4CLDyfd6NR-tRndbOHd_LuDA1qSX31w",
+        author: "박쌤컴퓨터",
+        videoId: "CRDPi_3g_vA",
+        date: "2023.12.24",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "03. 웹표준 사이트 만들기 : 디자인 : 이미지 유형01 / 피그마(Figma)로 작업하기 / 웹사이트 만들기",
-        img: website03,
-        author: "webstoryboy",
-        videoId: "yh4MUO05ils",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[24년 컴활2급실기 대비] 상시기출11회_분석작업",
+        img: "https://i.ytimg.com/an_webp/cYTsq5MGm_E/mqdefault_6s.webp?du=3000&sqp=CMSc07EG&rs=AOn4CLCgt4NgWjoJ9GB7kAEVmsBDVJGBqA",
+        author: "박쌤컴퓨터",
+        videoId: "cYTsq5MGm_E",
+        date: "2023.12.25",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "04. 웹표준 사이트 만들기 : 디자인 : 이미지/텍스트 유형01 / 피그마(Figma)로 작업하기 / 사이트 만들기",
-        img: website04,
-        author: "webstoryboy",
-        videoId: "nxpQq7wM7m0",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[24년 컴활2급실기 대비] 상시기출11회_기타작업",
+        img: "https://i.ytimg.com/vi/eOGcUSiEOLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4chfENQDqmvLhsHQ8rxPqrcvH_w",
+        author: "박쌤컴퓨터",
+        videoId: "eOGcUSiEOLs",
+        date: "2023.12.26",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "05. 웹표준 사이트 만들기 : 디자인 : 카드 유형01 / 피그마(Figma)로 작업하기 / 나도코딩",
-        img: website05,
-        author: "webstoryboy",
-        videoId: "hN_oia3ftOk",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[오피스2021 컴활2급] 최신 상시 기출1회 기본작업",
+        img: "https://i.ytimg.com/vi/EXy8vOf3j3U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALVpQ4_a2PB_p7nyim1S1JH1WheQ",
+        author: "박쌤컴퓨터",
+        videoId: "EXy8vOf3j3U",
+        date: "2024.01.08",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "06. 웹표준 사이트 만들기 : 디자인 : 배너 유형01 / 피그마(Figma)로 작업하기 / 코딩 기초",
-        img: website06,
-        author: "webstoryboy",
-        videoId: "-JEzrg5yg9g",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[오피스2021 컴활2급] 최신상시기출1회 계산작업 1",
+        img: "https://i.ytimg.com/vi/H7ahyafQ02E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8RPv7j_T-4S-xuuNoW5p1ID4V8g",
+        author: "박쌤컴퓨터",
+        videoId: "H7ahyafQ02E",
+        date: "2024.01.09",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "07. 웹표준 사이트 만들기 : 디자인 : 텍스트 유형01 / 피그마(Figma)로 작업하기 / 코딩 독학",
-        img: website07,
-        author: "webstoryboy",
-        videoId: "zN4kK-RjFXE",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[오피스2021 컴활2급] 최신상시기출1회 분석작업",
+        img: "https://i.ytimg.com/vi/t9RjkO7vn7k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4lsxbvBD0LnY-CzcrdEB_sG7nPg",
+        author: "박쌤컴퓨터",
+        videoId: "t9RjkO7vn7k",
+        date: "2024.01.11",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "08. 웹표준 사이트 만들기 : 디자인 : 푸터 유형01  / 피그마(Figma)로 작업하기 / 피그마 강의",
-        img: website08,
-        author: "webstoryboy",
-        videoId: "Wu2piDp007M",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[오피스2021 컴활2급] 최신상시기출1회 기타작업",
+        img: "https://i.ytimg.com/an_webp/DAJxTEopeb0/mqdefault_6s.webp?du=3000&sqp=CPaq07EG&rs=AOn4CLAX8NdSLpN8JtWJBGTStxuHlfbT2g",
+        author: "박쌤컴퓨터",
+        videoId: "DAJxTEopeb0",
+        date: "2024.01.12",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
         title: "09. 웹표준 사이트 만들기 : 디자인 : 완성 / 피그마(Figma)로 작업하기 / 피그마 기초",
         img: website09,
