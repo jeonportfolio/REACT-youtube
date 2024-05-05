@@ -1,7 +1,4 @@
 
-import website09 from "../assets/img/site/site09.jpg";
-import website10 from "../assets/img/site/site10.jpg";
-import website11 from "../assets/img/site/site11.jpg";
 import website12 from "../assets/img/site/site12.jpg";
 import website13 from "../assets/img/site/site13.jpg";
 import website14 from "../assets/img/site/site14.jpg";
@@ -23,25 +20,25 @@ export const websiteText = [
         date: "2023.12.23",
         channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "[24년 컴활2급실기 대비] 상시기출11회_기본작업",
-        img: "https://i.ytimg.com/an_webp/CRDPi_3g_vA/mqdefault_6s.webp?du=3000&sqp=CKCd07EG&rs=AOn4CLDyfd6NR-tRndbOHd_LuDA1qSX31w",
-        author: "박쌤컴퓨터",
-        videoId: "CRDPi_3g_vA",
-        date: "2023.12.24",
-        channelId: "UCvgU7moT0m89iDvjRolLcyg",
-    },{
-        title: "[24년 컴활2급실기 대비] 상시기출11회_분석작업",
-        img: "https://i.ytimg.com/an_webp/cYTsq5MGm_E/mqdefault_6s.webp?du=3000&sqp=CMSc07EG&rs=AOn4CLCgt4NgWjoJ9GB7kAEVmsBDVJGBqA",
-        author: "박쌤컴퓨터",
-        videoId: "cYTsq5MGm_E",
-        date: "2023.12.25",
-        channelId: "UCvgU7moT0m89iDvjRolLcyg",
-    },{
         title: "[24년 컴활2급실기 대비] 상시기출11회_기타작업",
         img: "https://i.ytimg.com/vi/eOGcUSiEOLs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4chfENQDqmvLhsHQ8rxPqrcvH_w",
         author: "박쌤컴퓨터",
         videoId: "eOGcUSiEOLs",
         date: "2023.12.26",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
+    },{
+        title: "[24년 컴활2급실기 대비] 상시기출12회_기본작업",
+        img: "https://i.ytimg.com/vi/UKiAbbeBc40/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDXbmFRRPZHLXZ4HWsDopX1Tf23w",
+        author: "박쌤컴퓨터",
+        videoId: "UKiAbbeBc40",
+        date: "2024.01.01",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
+    },{
+        title: "[24년 대비 컴활2급실기] 상시기출 12회 기타작업",
+        img: "https://i.ytimg.com/vi/VL-N0cDHqiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXHZWXWNJYs9j4k6mr6Hd5Ky10sQ",
+        author: "박쌤컴퓨터",
+        videoId: "VL-N0cDHqiU",
+        date: "2024.01.04",
         channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
         title: "[오피스2021 컴활2급] 최신 상시 기출1회 기본작업",
@@ -65,33 +62,33 @@ export const websiteText = [
         date: "2024.01.11",
         channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "[오피스2021 컴활2급] 최신상시기출1회 기타작업",
-        img: "https://i.ytimg.com/an_webp/DAJxTEopeb0/mqdefault_6s.webp?du=3000&sqp=CPaq07EG&rs=AOn4CLAX8NdSLpN8JtWJBGTStxuHlfbT2g",
+        title: "[오피스2021 컴활2급] 최신상시기출2회 계산작업1",
+        img: "https://i.ytimg.com/vi/2a_M8y7kXtU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvDxJH8SGtNp1N5GpduF-OofUsnQ",
         author: "박쌤컴퓨터",
-        videoId: "DAJxTEopeb0",
-        date: "2024.01.12",
+        videoId: "2a_M8y7kXtU",
+        date: "2024.01.14",
         channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "09. 웹표준 사이트 만들기 : 디자인 : 완성 / 피그마(Figma)로 작업하기 / 피그마 기초",
-        img: website09,
-        author: "webstoryboy",
-        videoId: "2CPRqp21mWM",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "박쌤 컴활2급 최신상시기출2회 기타작업",
+        img: "https://i.ytimg.com/vi/l4y9fh2zRcs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5yrlRN_CmWdNM7lcXtI3qNPIrLw",
+        author: "박쌤컴퓨터",
+        videoId: "2a_M8y7kXtU",
+        date: "2024.01.26",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "10. 웹표준 사이트 만들기 : 레이아웃 : 레이아웃 유형01 / 홈페이지 만들기 / 웹스토리보이",
-        img: website10,
-        author: "webstoryboy",
-        videoId: "qnwa6I5WosI",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[오피스2021 컴활2급] 최신상시기출3회 계산작업",
+        img: "https://i.ytimg.com/vi/JiB6qbJqyjU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-4tnTi9GATxhr0Vxy5LrHCPeImQ",
+        author: "박쌤컴퓨터",
+        videoId: "JiB6qbJqyjU",
+        date: "2024.01.28",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
-        title: "11. 웹표준 사이트 만들기 : 레이아웃 : 레이아웃 유형02 / 웹사이트 만들기 / HTML / CSS",
-        img: website11,
-        author: "webstoryboy",
-        videoId: "dNQZqNd_uUE",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        title: "[오피스2021 컴활2급] 최신상시기출3회 기타작업",
+        img: "https://i.ytimg.com/vi/mKlZensaiNo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXCiepZqUuPL-k854gKcH3jxMkBQ",
+        author: "박쌤컴퓨터",
+        videoId: "mKlZensaiNo",
+        date: "2024.02.04",
+        channelId: "UCvgU7moT0m89iDvjRolLcyg",
     },{
         title: "12. 웹표준 사이트 만들기 : 레이아웃 : 레이아웃 유형03 / 웹사이트 만들기 / JavaScript / CSS",
         img: website12,
