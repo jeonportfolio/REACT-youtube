@@ -30,16 +30,16 @@ export const developerText = [
         channelId: "UCIimf8pEC9AP0N_9FGW_P_w"
     },
     {
-        img: "https://yt3.googleusercontent.com/ytc/AIdro_mLb_N4nXabTobjb7AfRKXVCVpk_9dYvAu1KM9irmeI6w=s176-c-k-c0x00ffffff-no-rj-mo",
-        name: "소스놀이터",
-        channelAddress: "https://www.youtube.com/@sourcePlayground",
-        channelId: "UC2nkWbaJt1KQDi2r2XclzTQ"
+        img: "https://yt3.googleusercontent.com/_R_JwBzRHoms42oUM4UwFTo1oQSR-dCp1LxFqEZEcSLoFHAlctwlVFml2y9Sgqxu7SZYdr09Mg=s160-c-k-c0x00ffffff-no-rj",
+        name: "이미니 강사",
+        channelAddress: "https://www.youtube.com/@leeminiT",
+        channelId: "UCUJnANI0QXvqtSJb6Hk_GJQ"
     },
     {
-        img: "https://yt3.googleusercontent.com/ytc/AOPolaRCkXnBnWEMfpo5c_TXB-tF0FxqiCfv5KoP_9IBC6A=s176-c-k-c0x00ffffff-no-rj",
-        name: "얄팍한 코딩사전",
-        channelAddress: "https://www.youtube.com/@yalco-coding",
-        channelId: "UC2nkWbaJt1KQDi2r2XclzTQ"
+        img: "https://yt3.ggpht.com/M_PQj_duxfdx2TlGAJ4g1yoncx6O0g_vn6nSkC1g53VxVrB7ThICs_clr7iEY5HK_Nma8gxhmQ=s176-c-k-c0x00ffffff-no-rj-mo",
+        name: "방구석코딩",
+        channelAddress: "https://www.youtube.com/@@bang_gusuk_coder",
+        channelId: "UCWMtA3ChX2JTPXZSqCP-ytA"
     },
     {
         img: "https://yt3.googleusercontent.com/oLi5jJ2AKs_aYpR9UpUpu052M84WIE2j9cpnNb1VnpBHZMHVrTRPwrUIncJGu6--PVR-x-22=s176-c-k-c0x00ffffff-no-rj",
@@ -102,10 +102,10 @@ export const developerText = [
         channelId: "UCku8mOp8y05Cm6sb9Rp0jMQ"
     },
     {
-        img: "https://yt3.googleusercontent.com/1gLFRSPxZUYjlGG-Ap7B2bymZkdp4fFuSTAntouex6mdUQUZ2lA8kWMrzKOLHAdfkzjopcntU7E=s176-c-k-c0x00ffffff-no-rj",
-        name: "프로그래머 김플 스튜디오",
-        channelAddress: "https://www.youtube.com/@kimfl",
-        channelId: "UCdNSo3yB5-FRTFGbUNKNnwQ"
+        img: "https://yt3.ggpht.com/JuRcVt9OFQgqh7UL1LjihpVLEbjdNXt3tGq-IQfqRMT8wVXgWg_tzyz0S_GVsgqkB3ucBC5fqeY=s176-c-k-c0x00ffffff-no-rj-mo",
+        name: "조코딩",
+        channelAddress: "https://www.youtube.com/@jocoding",
+        channelId: "UCQNE2JmbasNYbjGAcuBiRRg"
     },
     {
         img: "https://yt3.googleusercontent.com/ytc/AOPolaToAOoB7zZaRe9kVmXGi6QWBBPrESpK8pcaWnBL=s176-c-k-c0x00ffffff-no-rj",

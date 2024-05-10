@@ -20,27 +20,11 @@ import port18 from "../assets/img/port/port-react08.jpg";
 import port19 from "../assets/img/port/port-react09.jpg";
 import port20 from "../assets/img/port/port-react10.jpg";
 
-import port21 from "../assets/img/port/port-vue01.jpg";
-import port22 from "../assets/img/port/port-vue02.jpg";
-import port23 from "../assets/img/port/port-vue03.jpg";
-import port24 from "../assets/img/port/port-vue04.jpg";
-import port25 from "../assets/img/port/port-vue05.jpg";
-import port26 from "../assets/img/port/port-vue06.jpg";
-import port27 from "../assets/img/port/port-vue07.jpg";
-import port28 from "../assets/img/port/port-vue08.jpg";
-import port29 from "../assets/img/port/port-vue09.jpg";
-import port30 from "../assets/img/port/port-vue10.jpg";
 
-import port31 from "../assets/img/port/port-next01.jpg";
-import port32 from "../assets/img/port/port-next02.jpg";
-import port33 from "../assets/img/port/port-next03.jpg";
-import port34 from "../assets/img/port/port-next04.jpg";
-import port35 from "../assets/img/port/port-next05.jpg";
-import port36 from "../assets/img/port/port-next06.jpg";
-import port37 from "../assets/img/port/port-next07.jpg";
-import port38 from "../assets/img/port/port-next08.jpg";
-import port39 from "../assets/img/port/port-next09.jpg";
-import port40 from "../assets/img/port/port-next10.jpg";
+
+
+
+
 
 export const portfolioText = [
     {
@@ -181,146 +165,6 @@ export const portfolioText = [
         img: port20,
         author: "webstoryboy",
         videoId: "0lCuUTt0qPs",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "21. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 셋팅하기 | 포트폴리오 | vue.js",
-        img: port21,
-        author: "webstoryboy",
-        videoId: "hPqonjWGxLU",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "22. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 컨퍼넌트 | 포트폴리오 | 프레임워크",
-        img: port22,
-        author: "webstoryboy",
-        videoId: "apcZFPfAaGA",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "23. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 헤더영역 | 포트폴리오 | vue.js",
-        img: port23,
-        author: "webstoryboy",
-        videoId: "rMYiB5TiBbo",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "24. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 인트로 영역 | 포트폴리오 | 취업",
-        img: port24,
-        author: "webstoryboy",
-        videoId: "L4CBHaC3W-U",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "25. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 스킬 영역 | 포트폴리오 | 사이트 제작",
-        img: port25,
-        author: "webstoryboy",
-        videoId: "NgXcV73XdEc",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "26. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 사이트 영역 | 포트폴리오 | 사이트 제작",
-        img: port26,
-        author: "webstoryboy",
-        videoId: "PLZmRIge7JI",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "27. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 포트폴리오 영역 | 포트폴리오 | 웹쓰",
-        img: port27,
-        author: "webstoryboy",
-        videoId: "GmO6yNEKQPA",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "28. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 연락처 영역 | 포트폴리오 | 웹스토리보이",
-        img: port28,
-        author: "webstoryboy",
-        videoId: "jBoYyc976-o",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "29. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 푸터 영역 | 포트폴리오 | 웹스토리보이",
-        img: port29,
-        author: "webstoryboy",
-        videoId: "Y_JMRXxZShM",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "30. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vue : 마무리 | 포트폴리오 | 웹스토리보이",
-        img: port30,
-        author: "webstoryboy",
-        videoId: "jahFUTbWOM8",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "31. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 셋팅하기 | 포트폴리오 | Next.js",
-        img: port31,
-        author: "webstoryboy",
-        videoId: "oEVQNaRijIo",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "32. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 컨퍼넌트 | 포트폴리오 | Next.js",
-        img: port32,
-        author: "webstoryboy",
-        videoId: "Q2gNBdZzqKs",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "33. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 헤더 영역 | 포트폴리오 | 웹스토리보이",
-        img: port33,
-        author: "webstoryboy",
-        videoId: "oa7IrUt80_w",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "34. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 인트로 영역 | 포트폴리오 | 웹스토리보이",
-        img: port34,
-        author: "webstoryboy",
-        videoId: "v5CC2B7oiQc",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "35. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 스킬 영역 | 포트폴리오 | 웹스토리보이",
-        img: port35,
-        author: "webstoryboy",
-        videoId: "iCivMPVgNco",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "36. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 사이트 영역 | 포트폴리오 | 웹스토리보이",
-        img: port36,
-        author: "webstoryboy",
-        videoId: "q07sEGN5XfQ",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "37. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 포트폴리오 영역 | 포트폴리오 | 웹스토리보이",
-        img: port37,
-        author: "webstoryboy",
-        videoId: "X1FQkZKkeak",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "38. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 연락처 영역 | 포트폴리오 | 웹스토리보이",
-        img: port38,
-        author: "webstoryboy",
-        videoId: "qbOeLfS-0tU",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "39. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 푸터 영역 | 포트폴리오 | webstoryboy",
-        img: port39,
-        author: "webstoryboy",
-        videoId: "Pyg44nISZ6w",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "40. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Next : 마무리 | 포트폴리오 | webstoryboy",
-        img: port40,
-        author: "webstoryboy",
-        videoId: "UPltdWsp_Xo",
         date: "2023.09.09",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },
