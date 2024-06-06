@@ -18,10 +18,10 @@ YouTube Data API를 활용하여 외부 데이터를 가져오는 방법을 익�
 
 ## 프로젝트 실행
 - react를 설치합니다. `npx create-react-app 타이틀`
-- react-router-dom을 설치합니다. `npm install react-router-dom`
-- axios를 설치합니다. `npm install axios`
-- react-icons을 설치합니다. `npm install react-icons`
-- react-player를 설치합니다. `npm install react-player`
-- sass를 설치합니다. `npm install sass`
-- react-helmet-async를 설치합니다. `npm install react-helmet-async`
-- swiper를 설치합니다. `npm install swiper`
+- react-router-dom을 설치합니다. `npm install react-router-dom`-> 라우팅 및 페이지 네비게이션을 처리하기 위한 라이브러리
+- axios를 설치합니다. `npm install axios` ->API와의 통신, 서버로 데이터 요청, RESTful API 호출 등에 사용
+- react-icons을 설치합니다. `npm install react-icons` -> FontAwesome, Material Icons, Ionicons 등과 같은 아이콘 라이브러리
+- react-player를 설치합니다. `npm install react-player`->YouTube, Vimeo, SoundCloud, Facebook 등과 같은 플랫폼에서 호스팅되는 미디어 사용
+- sass를 설치합니다. `npm install sass`->Sass는 변수, 중첩 규칙, 믹스인, 함수 등과 같은 고급 CSS 기능을 제공
+- react-helmet-async를 설치합니다. `npm install react-helmet-async` ->렌더링을 지원하여 웹 페이지의 제목, 메타 태그, 스타일, 스크립트 등을 동적으로 설정
+- swiper를 설치합니다. `npm install swiper` ->모바일 앱에서 이미지 슬라이더, 광고 배너, 컨텐츠 갤러리 등을 만들 수 있음

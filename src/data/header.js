@@ -81,12 +81,12 @@ export const searchKeyword = [
         src: "/search/vue.js"
     },
     {
-        title: "Next.js",
-        src: "/search/next.js"
-    },
-    {
         title: "Node.js",
         src: "/search/node.js"
+    },
+    {
+        title: "소스놀이터",
+        src: "/search/소스놀이터"
     },
     {
         title: "SQL",
@@ -109,7 +109,7 @@ export const snsLink = [
         icon: <AiFillGithub />
     },
     {
-        title: "youtube",
+        title: "naver",
         url: "https://blog.naver.com/turtleweb",
         icon: <SiNaver/> 
     },

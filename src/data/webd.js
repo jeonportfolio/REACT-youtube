@@ -7,8 +7,8 @@ import D1 from "../assets/img/webd/D1.png";
 import D2 from "../assets/img/webd/D2.png";
 import D3 from "../assets/img/webd/D3.png";
 import D4 from "../assets/img/webd/D4.png";
-import webd19 from "../assets/img/webd/webd19.jpg";
-import webd20 from "../assets/img/webd/webd20.jpg";
+import DD3 from "../assets/img/webd/DD3.png";
+import EE4 from "../assets/img/webd/EE4.png";
 import webd21 from "../assets/img/webd/webd21.jpg";
 import webd22 from "../assets/img/webd/webd22.jpg";
 import webd23 from "../assets/img/webd/webd23.jpg";
@@ -157,18 +157,18 @@ export const webdText = [
         date: "2023.03.02",
         channelId: "UCxl2Vvpyqk6C5rlFV-V6uCQ",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(E-3) | 웹스토리보이 | 웹디자인기능사 실기 기출문제",
-        img: webd19,
+        title: "웹디자인기능사 실기 D-3 푸른마을유형 4부 이미지 편집 제작",
+        img: DD3,
         author: "구구구굿디자인",
-        videoId: "kLYD9llonRs",
-        date: "2023.09.09",
+        videoId: "_1g-i7-hyVk",
+        date: "2023.02.27",
         channelId: "UCxl2Vvpyqk6C5rlFV-V6uCQ",
     },{
-        title: "웹디자인기능사 2023년 실기 강의 : 레이아웃 유형(E-4) | 웹스토리보이 | 웹디기 레이아웃",
-        img: webd20,
+        title: "웹디자인 기능사 실기 E-2 역사박물관 4부images",
+        img: EE4,
         author: "구구구굿디자인",
-        videoId: "fFpUdBY7r4s",
-        date: "2023.09.09",
+        videoId: "1IUbHUmA7us&t=9s",
+        date: "2023.03.03",
         channelId: "UCxl2Vvpyqk6C5rlFV-V6uCQ",
     },{
         title: "웹디자인기능사 2023년 실기 강의 : 메뉴 가로 유형(M-1) | 웹스토리보이 | 메뉴 제이쿼리",

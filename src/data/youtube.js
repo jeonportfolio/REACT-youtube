@@ -1,23 +1,23 @@
-import youtube01 from "../assets/img/youtube/youtube01.jpg";
-import youtube02 from "../assets/img/youtube/youtube02.jpg";
+import youtube01 from "../assets/img/youtube/gift.png";
+import youtube02 from "../assets/img/youtube/dong.png";
 import youtube03 from "../assets/img/youtube/youtube03.jpg";
 import youtube04 from "../assets/img/youtube/youtube04.jpg";
 import youtube05 from "../assets/img/youtube/youtube05.jpg";
 
 export const youtubeText = [
     {
-        title: "01 나만의 유튜브 사이트 만들기",
+        title: "박효신 - gift",
         img: youtube01,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
+        author: "KBS Kpop",
+        videoId: "g2zknZb5C6s",
+        date: "2016.10.30",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },{
-        title: "02 나만의 유튜브 사이트 만들기",
+        title: "김동률 - 동행 ",
         img: youtube02,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
+        author: "김동률",
+        videoId: "gWu8or3BPwU",
+        date: "2014.10.01",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },{
         title: "03 나만의 유튜브 사이트 만들기",
@@ -57,90 +57,6 @@ export const youtubeText = [
     },{
         title: "08 나만의 유튜브 사이트 만들기",
         img: youtube03,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "09 나만의 유튜브 사이트 만들기",
-        img: youtube04,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "10 나만의 유튜브 사이트 만들기",
-        img: youtube05,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "11 나만의 유튜브 사이트 만들기",
-        img: youtube01,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "12 나만의 유튜브 사이트 만들기",
-        img: youtube02,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "13 나만의 유튜브 사이트 만들기",
-        img: youtube03,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "14 나만의 유튜브 사이트 만들기",
-        img: youtube04,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "15 나만의 유튜브 사이트 만들기",
-        img: youtube05,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "16 나만의 유튜브 사이트 만들기",
-        img: youtube01,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "17 나만의 유튜브 사이트 만들기",
-        img: youtube02,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "18 나만의 유튜브 사이트 만들기",
-        img: youtube03,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "19 나만의 유튜브 사이트 만들기",
-        img: youtube04,
-        author: "webstoryboy",
-        videoId: "OKZXYgAgtyw",
-        date: "2023.09.09",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-    },{
-        title: "20 나만의 유튜브 사이트 만들기",
-        img: youtube05,
         author: "webstoryboy",
         videoId: "OKZXYgAgtyw",
         date: "2023.09.09",
