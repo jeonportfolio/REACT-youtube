@@ -27,7 +27,7 @@ const Home = () => {
             <VideoSlider videos={webdText} title="😮 웹디자인기능사 필기 포토샵 실기 영상" id="webd" />
             <VideoSlider videos={websiteText} title="😛 컴퓨터활용능력 2급 실기 영상" id="website" />
             <VideoSlider videos={gsapText} title="🤓 SQLD 자격증 독학 영상" id="gsap" />
-            <VideoSlider videos={portfolioText} title="🤗 동기부여 영상" id="portfolio" />
+            <VideoSlider videos={portfolioText} title="🤗 AWS 강의" id="portfolio" />
             <VideoSlider videos={youtubeText} title="😱 나만의 음악목록" id="youtube" />
 
 

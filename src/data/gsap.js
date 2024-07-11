@@ -96,14 +96,14 @@ export const gsapText = [
         author: "아이리포",
         videoId: "x9koXOzODfY",
         date: " 2024. 5. 20",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        channelId: "UCYqYscK7l_1Z5AT1Of0KUkQ",
     },{
         title: "[SQLD 모든 것] 36-2. 3장 출제예상문제 풀이(2)",
         img: "https://i.ytimg.com/vi/DbLqfv8VK-M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_hWqqoIoQTDM8UB3doiRfkUq4uw",
         author: "아이리포",
         videoId: "DbLqfv8VK-M",
         date: "2024. 5. 20",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
+        channelId: "UCYqYscK7l_1Z5AT1Of0KUkQ",
     },{
         title: "[SQLD 모든 것] 38-2. 5장 출제예상문제 풀이(2)",
         img: "https://i.ytimg.com/vi/rH-l9e2eUhE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0TiXeHpKniaW5k4VD7-ATDGYNDQ",

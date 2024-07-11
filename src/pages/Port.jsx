@@ -19,11 +19,11 @@ const Port = () => {
 
     return (
         <Main 
-            title = "동기부여 사이트"
-            description="동기부여 강의입니다.">
+            title = "AWS 사이트"
+            description="AWS 강의입니다.">
             
             <section id='portPage' className={portPageClass}>
-                    <h2>🤗 동기부여 영상</h2>
+                    <h2>🤗 AWS 강의영상</h2>
                     <div className="video__inner">
                         <VideoCard videos={portfolioText} />
                     </div>

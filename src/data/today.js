@@ -1,11 +1,7 @@
 
-
-
 import todayView04 from "../assets/img/today/todayView04.jpg";
-import todayView05 from "../assets/img/today/todayView05.jpg";
-import todayView06 from "../assets/img/today/todayView06.jpg";
 import todayView07 from "../assets/img/today/todayView07.jpg";
-import todayView08 from "../assets/img/today/todayView08.jpg";
+
 
 export const todayText = [
     {
@@ -34,43 +30,43 @@ export const todayText = [
         page: "/website"
     },{
         img: todayView04,
-        title: "Vue.js를 이용하여 포트폴리오 사이트 만들기",
-        desc : "안녕하세요, 여러분! 오늘은 특별한 프로젝트를 소개해드리려고 합니다. 제가 '나만의 코딩 유튜브 사이트 만들기'라는 주제로 프로젝트를 진행하게 되었는데요, 이 프로젝트는 저의 열정인 코딩과 온라인 교육을 결합한 결과물입니다. 이 프로젝트의 주요 목표는 누구나 쉽게 접근하고 배울 수 있는 공간을 만드는 것입니다. 제가 여러 해 동안 프로그래밍을 공부하면서 느낀 점은 양질의 학습 자료와 개인의 진도에 맞는 커리큘럼이 얼마나 중요한지입니다. 그래서 이 사이트에서는 초보자부터 고급 수준까지 다양한 난이도와 주제의 온라인 강의를 제공할 계획입니다.",
+        title: "웹디자인기능사 2023년 실기 강의 : 실전 사이트 연습 : B유형",
+        desc : "웹디자인기능사 실기시험 해설 영상입니다.",
         author : "webstoryboy",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-        date: "2023.07.07",
-        page: "/port"
+        date: "2023.09.09",
+        page: "/webd"
     },{
-        img: todayView05,
-        title: "Next.js를 이용하여 포트폴리오 사이트 만들기",
-        desc : "안녕하세요, 여러분! 오늘은 특별한 프로젝트를 소개해드리려고 합니다. 제가 '나만의 코딩 유튜브 사이트 만들기'라는 주제로 프로젝트를 진행하게 되었는데요, 이 프로젝트는 저의 열정인 코딩과 온라인 교육을 결합한 결과물입니다. 이 프로젝트의 주요 목표는 누구나 쉽게 접근하고 배울 수 있는 공간을 만드는 것입니다. 제가 여러 해 동안 프로그래밍을 공부하면서 느낀 점은 양질의 학습 자료와 개인의 진도에 맞는 커리큘럼이 얼마나 중요한지입니다. 그래서 이 사이트에서는 초보자부터 고급 수준까지 다양한 난이도와 주제의 온라인 강의를 제공할 계획입니다.",
-        author : "webstoryboy",
+        img: "https://i.ytimg.com/vi/BihxtlhUUIE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgUXqMzo2IKrGSdemTS1dzfe__jQ",
+        title: "[SQLD 모든 것] 34-2. 1장 출제예상문제 풀이(2)",
+        desc : "SQLD 기출문제 해설 영상 입니다.",
+        author : "아이리포",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-        date: "2023.07.07",
-        page: "/port"
-    },{
-        img: todayView06,
-        title: "GSAP를 이용하여 창의적인 사이트 만들기",
-        desc : "안녕하세요, 여러분! 오늘은 특별한 프로젝트를 소개해드리려고 합니다. 제가 '나만의 코딩 유튜브 사이트 만들기'라는 주제로 프로젝트를 진행하게 되었는데요, 이 프로젝트는 저의 열정인 코딩과 온라인 교육을 결합한 결과물입니다. 이 프로젝트의 주요 목표는 누구나 쉽게 접근하고 배울 수 있는 공간을 만드는 것입니다. 제가 여러 해 동안 프로그래밍을 공부하면서 느낀 점은 양질의 학습 자료와 개인의 진도에 맞는 커리큘럼이 얼마나 중요한지입니다. 그래서 이 사이트에서는 초보자부터 고급 수준까지 다양한 난이도와 주제의 온라인 강의를 제공할 계획입니다.",
-        author : "webstoryboy",
-        channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-        date: "2023.07.07",
+        date: "2024. 5. 20",
         page: "/gsap"
+    },{
+        img: "https://i.ytimg.com/vi/N2Q26w-qcDk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYY0kKHmtXZFR9tDupqxmhCuV-tA",
+        title: "[컴활2급실기] 실전 모의고사 1회",
+        desc : "컴활 2급 실기 해설 영상입니다..",
+        author : "이기적 영진닷컴",
+        channelId: "UCIimf8pEC9AP0N_9FGW_P_w",
+        date: "2023.10.26",
+        page: "/website"
     },{
         img: todayView07,
         title: "웹디자인 기능사는 이 영상으로 준비 끝",
-        desc : "안녕하세요, 여러분! 오늘은 특별한 프로젝트를 소개해드리려고 합니다. 제가 '나만의 코딩 유튜브 사이트 만들기'라는 주제로 프로젝트를 진행하게 되었는데요, 이 프로젝트는 저의 열정인 코딩과 온라인 교육을 결합한 결과물입니다. 이 프로젝트의 주요 목표는 누구나 쉽게 접근하고 배울 수 있는 공간을 만드는 것입니다. 제가 여러 해 동안 프로그래밍을 공부하면서 느낀 점은 양질의 학습 자료와 개인의 진도에 맞는 커리큘럼이 얼마나 중요한지입니다. 그래서 이 사이트에서는 초보자부터 고급 수준까지 다양한 난이도와 주제의 온라인 강의를 제공할 계획입니다.",
+        desc : "웹디자인 실기 기본 구조 연습 영상입니다.",
         author : "webstoryboy",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
         date: "2023.07.07",
         page: "/webd"
     },{
-        img: todayView08,
-        title: "디자인 부터 코딩까지 준비 완료",
-        desc : "안녕하세요, 여러분! 오늘은 특별한 프로젝트를 소개해드리려고 합니다. 제가 '나만의 코딩 유튜브 사이트 만들기'라는 주제로 프로젝트를 진행하게 되었는데요, 이 프로젝트는 저의 열정인 코딩과 온라인 교육을 결합한 결과물입니다. 이 프로젝트의 주요 목표는 누구나 쉽게 접근하고 배울 수 있는 공간을 만드는 것입니다. 제가 여러 해 동안 프로그래밍을 공부하면서 느낀 점은 양질의 학습 자료와 개인의 진도에 맞는 커리큘럼이 얼마나 중요한지입니다. 그래서 이 사이트에서는 초보자부터 고급 수준까지 다양한 난이도와 주제의 온라인 강의를 제공할 계획입니다.",
-        author : "webstoryboy",
+        img: "https://i.ytimg.com/vi/zhNXUYjVDQA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn2MYOMndi9q-lzpbQ1wlwyiT7ww",
+        title: "당신이 몰랐던 Amazon EC2 활용 팁 12개 (1편)",
+        desc : "AWS 클라우드의 EC2 활용법을 소개합니다.",
+        author : "AWS 강의실",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
-        date: "2023.07.07",
-        page: "/website"
+        date: "2022. 11. 30",
+        page: "/port"
     },
 ]

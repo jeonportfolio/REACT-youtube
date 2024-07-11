@@ -36,6 +36,7 @@ const Channel = () => {
         } 
         //비동기 방식 순서대로 작업 x 순서상관없이 async은 싱크를 맞게 해주는것 await는 작업 완료까지 기다려 주는것 
         fetchResults();
+
     }, [channelId])
 
     const loadMorevideos = async () => {

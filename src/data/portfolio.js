@@ -1,70 +1,68 @@
-import port01 from "../assets/img/port/port-vite01.jpg";
-import port02 from "../assets/img/port/port-vite02.jpg";
-import port03 from "../assets/img/port/port-vite03.jpg";
-import port04 from "../assets/img/port/port-vite04.jpg";
-import port05 from "../assets/img/port/port-vite05.jpg";
-import port06 from "../assets/img/port/port-vite06.jpg";
-import port07 from "../assets/img/port/port-vite07.jpg";
-import port08 from "../assets/img/port/port-vite08.jpg";
+
+
+
+
+
+
 
 
 
 export const portfolioText = [
     {
-        title: "동기부여 1",
-        img: port01,
-        author: "webstoryboy",
-        videoId: "2ZiZlEvtWgM",
-        date: "2023.09.09",
+        title: "(LV.100)AWS 아키텍처의 필수 서비스 : SQS를 소개합니다",
+        img: "https://i.ytimg.com/vi/bVjZ_1bsO-4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH3QFLPm0-XaVccYc5NRIp5fZzXQ",
+        author: "aws강의실",
+        videoId: "bVjZ_1bsO-4",
+        date: "2024. 4. 7",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },{
-        title: "02. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 레이아웃 | 프론트앤드 | 포트폴리오",
-        img: port02,
-        author: "webstoryboy",
-        videoId: "qEHaq4M2lXs",
-        date: "2023.09.09",
+        title: "(LV.100)AWS의 파일 저장/관리의 필수서비스 : Amazon S3를 소개합니다!",
+        img: "https://i.ytimg.com/vi/6sL80G4Pn7Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz6VSvqu_uXREDDPqB87PCI8RdcQ",
+        author: "aws강의실",
+        videoId: "6sL80G4Pn7Y",
+        date: "2024. 4. 20.",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },{
-        title: "03. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 헤더 영역 | 웹스토리보이 | 포트폴리오",
-        img: port03,
-        author: "webstoryboy",
-        videoId: "fzH2LsKoVdg",
-        date: "2023.09.09",
+        title: "(LV.200)AWS KMS 기초를 정리합니다.",
+        img: "https://i.ytimg.com/vi/4k3FvmYF37E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_EiQSv4pSainQP5dUpOgADgOfwA",
+        author: "aws강의실",
+        videoId: "4k3FvmYF37E",
+        date: "2024. 5. 23",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },{
-        title: "04. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 인트로 영역 | 웹스토리보이 | 리액트",
-        img: port04,
-        author: "webstoryboy",
-        videoId: "N4itpjUEqss",
-        date: "2023.09.09",
+        title: "(LV.100)AWS의 메세징 서비스: Amazon SNS를 소개합니다!",
+        img: "https://i.ytimg.com/vi/623uoghFBRI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAU4f1jIsT8lG5TquNxwuQA4OqfjA",
+        author: "aws강의실",
+        videoId: "623uoghFBRI",
+        date: "2024. 6. 11",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },{
-        title: "05. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 스킬 영역 | 웹스토리보이 | 비트",
-        img: port05,
-        author: "webstoryboy",
-        videoId: "8FemQEZVAyQ",
-        date: "2023.09.09",
+        title: "AWS를 이해하기 위한 기초지식 : OSI 7 Layer 1편 -Physical/Data Link Layer-",
+        img: "https://i.ytimg.com/vi/DufRXdDF9zI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuUMO-9KSHV9T9YkbHz8T72UbtbQ",
+        author: "aws강의실",
+        videoId: "DufRXdDF9zI&t=11s",
+        date: " 2024. 7. 3",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },{
-        title: "06. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 사이트 영역 | 웹스토리보이 | 포폴",
-        img: port06,
-        author: "webstoryboy",
-        videoId: "HoMX0lQfzvg",
-        date: "2023.09.09",
+        title: "AWS를 이해하기 위한 기초지식 : OSI 7 Layer 2편 -Network Layer-",
+        img: "https://i.ytimg.com/vi/ZnBskOsDuFY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAelRVIY-4QDv35hw7eDIn9RpJrww",
+        author: "aws강의실",
+        videoId: "ZnBskOsDuFY",
+        date: "2024. 7. 3",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },{
-        title: "07. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 포트폴리오 영역 | 웹스토리보이 | 자바스크립트",
-        img: port07,
-        author: "webstoryboy",
-        videoId: "AEVpBAeXOBQ",
-        date: "2023.09.09",
+        title: "당신이 몰랐던 Amazon EC2 활용 팁 12개 (1편)",
+        img: "https://i.ytimg.com/vi/zhNXUYjVDQA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDn2MYOMndi9q-lzpbQ1wlwyiT7ww",
+        author: "aws강의실",
+        videoId: "zhNXUYjVDQA",
+        date: "2022. 11. 30",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     },{
-        title: "08. 다양한 프레임워크로 구축하는 포트폴리오 사이트 개발 : Vite : 연락처 영역 | 웹스토리보이 | 퍼블리셔",
-        img: port08,
-        author: "webstoryboy",
-        videoId: "mjZISLURugw",
-        date: "2023.09.09",
+        title: "당신이 몰랐던 Amazon EC2 활용 팁 12개 (2편)",
+        img: "https://i.ytimg.com/vi/7zti7zxzcf0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt9PCOsWWU-jbfg_Ob878o3kdDog",
+        author: "aws강의실",
+        videoId: "7zti7zxzcf0",
+        date: "2022. 12. 5",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
     }
 ]

@@ -44,7 +44,7 @@ export const headerMenus = [
         src: "/gsap"
     },
     {
-        title: "동기부여",
+        title: "AWS 강의",
         icon: <CiDumbbell />,
         src: "/port"
     },
