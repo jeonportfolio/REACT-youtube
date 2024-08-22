@@ -6,7 +6,7 @@ const Logo = ({ toggleMenu }) => {
         <h1 className='header__logo'>
             <Link to='/'>
                 <em aria-hidden='true' onClick={toggleMenu}></em>
-                <span>Jeon's<br />youtube</span>
+                <span>MY STUDY<br />youtube</span>
             </Link>
         </h1>
     )
