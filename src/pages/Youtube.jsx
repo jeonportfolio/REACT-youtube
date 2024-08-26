@@ -24,7 +24,7 @@ const Youtube = () => {
             description="유튜브 사이트 튜토리얼 강의입니다.">
             
             <section id='youtubePage' className={youtubePageClass}>
-                <h2>😱</h2>
+                <h2>😱음악 감상 모음</h2>
                 <div className='video__inner'>
                     <VideoCard videos={youtubeText} />
                 </div>
